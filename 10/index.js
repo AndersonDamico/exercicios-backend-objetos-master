@@ -54,3 +54,26 @@ patricia.carrinho = [
         quantidade: 1,
     }
 ]
+
+renato.carrinho = [
+    {
+        item:webcam,
+        quantidade: 5,
+    }
+]
+
+roberto.carrinho = [
+    {
+        item:webcam,
+        quantidade: 1,
+    },
+    {
+        item:caboUsb,
+        quantidade: 2,
+    },
+    {
+        item: monitor,
+        quantidade: 1,
+    }
+]
+
